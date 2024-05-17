@@ -1,5 +1,3 @@
-Sure, here's the complete README in one text box:
-
 ```markdown
 # PDF to Audiobook Converter
 
